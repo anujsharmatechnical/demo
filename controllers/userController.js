@@ -19,7 +19,7 @@ module.exports = {
           }
           catch(e){
           console.log(e);
-          return res.send('error occured123')
+          return res.send('error occured123') 
           }
     }
 }
